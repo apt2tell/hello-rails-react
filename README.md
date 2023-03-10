@@ -50,7 +50,7 @@
 
 ### Setup
 
-1. Clone this project on your local machine using the following command on your Git Bash: `git clone https://github.com/ouasamine/rails-webpack-demo.git`
+1. Clone this project on your local machine using the following command on your Git Bash: `git clone https://github.com/Okechukwu-muokwugwo/rails-webpack-demo.git`
 
 2. Browse to project directory `cd rails-webpack-demo`
 
@@ -71,7 +71,7 @@ In the project directory, you can run:
 
 ## Author
 
-👤 **Amine**
+👤 **Okechukwu**
 
 - GitHub: [@Okechukwu-muokwugwo](https://github.com/Okechukwu-muokwugwo)
 - Twitter: [@excel4eva](https://twitter.com/excel4eva)
